@@ -5,7 +5,7 @@ compatibility_date = "2024-03-20"
 [[d1_databases]]
 binding = "DB"
 database_name = "MADAR_DB"
-database_id = "PLACEHOLDER"
+database_id = "21420b53-5d3d-4241-b90f-84af21312de2"
 
 [[r2_buckets]]
 binding = "DOCUMENTS"
